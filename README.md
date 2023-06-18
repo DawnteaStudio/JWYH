@@ -161,4 +161,4 @@ https://github.com/DawnteaStudio/JWYH/assets/90132183/d62d8200-80fd-4592-b9e0-de
 | 이서진 | FE | 편지보관 페이지 담당 |
 | 박세원 | BE | 편지관련 CURD 기능 <br> nginx와 pm2를 통한 배포|
 | 최현수 | BE | 소셜로그인, 로그인 기능 <br> 회원가입 및 유효성 검사 기능|
-| 한승협 | BE | 1. api 제작 협력 |
+| 한승협 | BE | api 제작 협력 |
